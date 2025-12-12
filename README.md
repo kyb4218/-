@@ -88,7 +88,7 @@ Vue 3 기반 SPA 구조로 개발되었으며,
 - **상태 관리**: Pinia
 - **라우팅**: Vue Router
 - **UI**: Bootstrap, Custom Components
-- **지도**: 지도 API 연동
+- **지도**: OPENROUTESERVICE API
 - **API 통신**: Axios
 - **인증 처리**: JWT 기반 인증 연동
 
@@ -108,7 +108,7 @@ Vue 3 기반 SPA 구조로 개발되었으며,
 ---
 
 ## 개발 환경
-- **IDE**: VS Code
+- **IDE**: IntelliJ IDEA
 - **Node.js**: 18.x 이상
 - **패키지 매니저**: npm
 
@@ -118,4 +118,5 @@ Vue 3 기반 SPA 구조로 개발되었으며,
 - 본 프로젝트는 **공공 데이터 기반 팀 프로젝트**로,  
   보안 및 정책상 일부 설정 정보는 비공개 처리되어 있습니다.
 - 프론트엔드는 백엔드 API 서버와 분리된 구조로 개발되었습니다.
+
 
